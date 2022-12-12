@@ -1,13 +1,9 @@
 # Welcome!<!-- {docsify-ignore} -->
 
-> 请你吃麦当劳🍔！喜欢您来~
+> **建设参考：** [docsify中文教程](https://docsify.js.org/#/zh-cn/)、[Docsify | 搭建个人静态笔记库](https://mantyke.icu/posts/2021/docsify-build/) by 塔塔
 
-> 博主忘记更新是很常见的事~
+> **封面图来自：** [@overwater](https://weibo.com/u/1646592141)
 
-- 在读：《看不见的美国》
 
-- 在看：美剧《基本演绎法》S3、综艺《时光音乐会》S2
-
-- 在玩：collar x mallice
 
 

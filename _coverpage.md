@@ -1,4 +1,4 @@
-# 呆呆‘s 便利贴
+# 呆呆’s 便利贴
 
 > 书影音展示墙
 
@@ -6,6 +6,6 @@
 - 最后祝您身体健康!
 
 [Blog](https://clear0804.vercel.app/)
-[Get Started](/README.md)
+[Get Started](/index.md)
 
 ![](media/IMG_3463.JPG)
