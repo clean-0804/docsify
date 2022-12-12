@@ -1,4 +1,4 @@
-* [Game](/Game/)
+* [Game](/Game/README.md)
 * C
     * collar x mallice
 * Q

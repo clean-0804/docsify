@@ -8,4 +8,4 @@
 [Blog](https://clear0804.vercel.app/)
 [Get Started](/index.md)
 
-![](media/IMG_3463.JPG)
+![](media/IMG_2757.JPG)
