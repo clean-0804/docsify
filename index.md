@@ -8,6 +8,6 @@
 
 - **在看：**美剧《基本演绎法》S3、综艺《时光音乐会》S2
 
-- **在玩：**collar x mallice
+- **在玩：**collar x mallice fd
 
 

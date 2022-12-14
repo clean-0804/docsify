@@ -1,6 +1,9 @@
 * [Game](/Game/README.md)
 * C
     * collar x mallice
+    * collar x mallice fd
+* N
+    * 逆转裁判123合集
 * Q
     * 全网公敌
 * S

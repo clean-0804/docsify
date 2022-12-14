@@ -6,5 +6,7 @@
 
 - [x] 全网公敌
 - [ ] 塞尔达
-- [ ] collar x mallice
+- [ ] 逆转裁判123合集
+- [x] collar x mallice
+- [ ] collar x mallice fd
 
