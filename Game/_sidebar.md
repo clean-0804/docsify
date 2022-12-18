@@ -2,6 +2,8 @@
 * C
     * collar x mallice
     * collar x mallice fd
+* H
+    * 哈迪斯 Hades
 * N
     * 逆转裁判123合集
 * Q
