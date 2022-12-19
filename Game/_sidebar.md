@@ -2,6 +2,8 @@
 * C
     * collar x mallice
     * collar x mallice fd
+* D
+    * 搭档任务BOND
 * H
     * 哈迪斯 Hades
 * N
