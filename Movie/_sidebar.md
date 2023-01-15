@@ -12,3 +12,6 @@
 * **综艺**
     * going seventeen
     * 时光音乐会 S2
+    * Super TV
+    * Super Returns 4
+    * Super Trip
