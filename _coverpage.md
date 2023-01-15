@@ -5,7 +5,7 @@
 - 缓慢施工中🚧
 - 最后祝您身体健康!
 
-[Blog](https://clear0804.vercel.app/)
+[Blog](https://graugris.icu/)
 [Get Started](/index.md)
 
 ![](media/IMG_2757.JPG)
