@@ -1,2 +1,2 @@
 * [Main](/)
-* [About](/index.md)
+* [About](/about.md)
