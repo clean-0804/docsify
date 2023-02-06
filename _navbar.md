@@ -1,4 +1,2 @@
 * [Main](/)
-* [Book](/Book/)
-* [Movie](/Movie/)
-* [Game](/Game/)
+* [About](/index.md)
