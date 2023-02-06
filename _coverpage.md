@@ -8,4 +8,4 @@
 [Blog](https://graugris.icu/)
 [Get Started](/index.md)
 
-![](media/IMG_2757.JPG)
+![](media/IMG_3461.JPG)
