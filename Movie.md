@@ -1,7 +1,5 @@
 # Movie 
 
-> 电视剧电影综艺大杂烩！
-
 ## 2023
 ### 电视剧<!-- {docsify-ignore} -->
 - [ ] 基本演绎法 Elementary
