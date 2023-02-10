@@ -2,7 +2,7 @@
 
 ## 2023
 ### 电视剧<!-- {docsify-ignore} -->
-- [ ] 基本演绎法 Elementary
+- [ ] 基本演绎法 Elementary S3-S7
 - [ ] Healer（怎么又在看……
 
 ### 电影<!-- {docsify-ignore} -->
@@ -18,7 +18,7 @@
 ## 2022
 ### 电视剧<!-- {docsify-ignore} -->
 - [x] 爱情应该有的样子
-- [ ] 基本演绎法 Elementary S1&S2
+- [x] 基本演绎法 Elementary S1&S2
 - [x] 机智的医生生活 1&2
 
 ### 电影<!-- {docsify-ignore} -->
