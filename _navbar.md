@@ -1,2 +1,0 @@
-* [Main](/)
-* [About](/about.md)

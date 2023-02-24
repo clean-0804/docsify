@@ -14,7 +14,10 @@
 
 - Start from 2022.12.
 
-- 建设参考：[docsify中文教程](https://docsify.js.org/#/zh-cn/)、[Docsify | 搭建个人静态笔记库](https://mantyke.icu/posts/2021/docsify-build/) by 塔塔
+- 建设参考：
+    - [docsify中文教程](https://docsify.js.org/#/zh-cn/)
+    - [Docsify | 搭建个人静态笔记库](https://mantyke.icu/posts/2021/docsify-build/) by 塔塔
+    - [docsify的配置+全插件列表](https://xhhdd.cc/archives/80/comment-page-1)
 
 - 封面图来自：[@overwater](https://weibo.com/u/1646592141)
 
