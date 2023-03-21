@@ -3,7 +3,7 @@
 ## 2023
 ### 电视剧<!-- {docsify-ignore} -->
 - [ ] 基本演绎法 Elementary S3-S7
-- [ ] Healer（怎么又在看……
+- [x] Healer（怎么又在看……
 
 ### 电影<!-- {docsify-ignore} -->
 - [x] 爱在黎明破晓前
