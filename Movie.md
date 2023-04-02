@@ -8,6 +8,8 @@
 ### 电影<!-- {docsify-ignore} -->
 - [x] 爱在黎明破晓前
 - [x] 土拨鼠之日
+- [x] 暴力史
+- [x] 余命十年
 
 ### 综艺<!-- {docsify-ignore} -->
 - [x] Super TV
