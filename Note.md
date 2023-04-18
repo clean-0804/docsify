@@ -4,13 +4,9 @@
 
 
 ### Markdown
-- 图片调整大小
+- 图片语句
 ```
-<style>
-  img[alt="图片名称"]{
-    width:600px;
-  }
-</style>
+{{<figure src="地址#center" caption="名字" width=" px">}}
 ```
 
 ### 短代码&文本效果
