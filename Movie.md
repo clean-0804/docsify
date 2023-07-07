@@ -2,7 +2,7 @@
 
 ## 2023
 ### 电视剧<!-- {docsify-ignore} -->
-- [ ] 基本演绎法 Elementary S3-S7
+- [x] 基本演绎法 Elementary S3-S7
 - [x] Healer（怎么又在看……
 
 ### 电影<!-- {docsify-ignore} -->
@@ -11,8 +11,9 @@
 - [x] 暴力史
 - [x] 余命十年
 - [x] 寻梦环游记
-- [ ] 傲慢与偏见
-- [ ] 海边的曼彻斯特
+- [x] **消失的她**
+- [x] 东方的承诺
+- [x] 公主日记
 
 ### 综艺<!-- {docsify-ignore} -->
 - [x] Super TV
@@ -33,4 +34,5 @@
 
 ### 综艺<!-- {docsify-ignore} -->
 - [x] going seventeen 2019 2020 2021 2022
+- [x] 蹦蹦地球游戏厅
 
