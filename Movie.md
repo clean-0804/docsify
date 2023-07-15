@@ -6,7 +6,8 @@
 ### 电视剧<!-- {docsify-ignore} -->
 - [x] 基本演绎法 Elementary S3-S7
 - [x] Healer（怎么又在看……
-- [ ] Melo体质
+- [x] Melo体质
+- [x] Run on
 
 ### 电影<!-- {docsify-ignore} -->
 - [x] 爱在黎明破晓前
@@ -18,6 +19,7 @@
 - [x] **消失的她**
 - [x] 东方的承诺
 - [x] 公主日记
+- [x] 与玛格丽特的午后
 
 ### 综艺<!-- {docsify-ignore} -->
 - [x] Super TV
