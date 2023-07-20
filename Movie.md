@@ -8,6 +8,7 @@
 - [x] Healer（怎么又在看……
 - [x] Melo体质
 - [x] Run on
+- [x] 举重妖精金福珠
 
 ### 电影<!-- {docsify-ignore} -->
 - [x] 爱在黎明破晓前
@@ -20,6 +21,10 @@
 - [x] 东方的承诺
 - [x] 公主日记
 - [x] 与玛格丽特的午后
+- [x] 小森林之夏秋篇
+
+## 纪录片<!-- {docsify-ignore} -->
+- [ ] 冰山的阴影
 
 ### 综艺<!-- {docsify-ignore} -->
 - [x] Super TV
