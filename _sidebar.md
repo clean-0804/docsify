@@ -12,6 +12,7 @@
     - [看不见的美国](/Book/看不见的美国.md)
     - [夜晚的潜水艇](/Book/夜晚的潜水艇.md)
     - [第七天](/Book/第七天.md)
+    - [我不知道该说什么,关于死亡还是爱情](/Book/我不知道该说什么，关于死亡还是爱情.md)
 
 - Album
     - [Healer](/Album/Healer/Healer.md)
