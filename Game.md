@@ -11,6 +11,7 @@
 - [x] 共生丘比特
 - [x] Coffee talk
 - [x] Lacuna
+- [ ] 幻奏咖啡厅
 - [ ] 深埋之星
 - [ ] Code: Realize 本篇
 - The Ssum（手游
