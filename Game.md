@@ -1,7 +1,5 @@
 # Game
 
-
-
 ## 2023
 
 - [x] 哈迪斯
@@ -11,7 +9,8 @@
 - [x] 共生丘比特
 - [x] Coffee talk
 - [x] Lacuna
-- [ ] 幻奏咖啡厅
+- [x] 幻奏咖啡厅
+- [ ] P5R
 - [ ] 深埋之星
 - [ ] Code: Realize 本篇
 - The Ssum（手游
