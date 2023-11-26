@@ -3,15 +3,16 @@
 > 加粗为影院观影
 
 ## 2023
-### 电视剧<!-- {docsify-ignore} -->
+### 电视剧 7<!-- {docsify-ignore} -->
 - [x] 基本演绎法 Elementary S3-S7
 - [x] Healer（怎么又在看……
 - [x] Melo体质
 - [x] Run on
 - [x] 举重妖精金福珠
 - [x] 都市男女爱情法
+- [x] 老友记 Friends S1
 
-### 电影<!-- {docsify-ignore} -->
+### 电影 18<!-- {docsify-ignore} -->
 - [x] 爱在黎明破晓前
 - [x] 土拨鼠之日
 - [x] 暴力史
@@ -33,7 +34,7 @@
 - [x] 机器人总动员
 - [ ] 小姐
 
-### 综艺<!-- {docsify-ignore} -->
+### 综艺 5<!-- {docsify-ignore} -->
 - [x] Super TV
 - [x] Super Returns 4
 - [x] Super Trip
