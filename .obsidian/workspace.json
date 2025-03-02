@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/生而为女.md",
+                "file": "_coverpage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生而为女"
+              "title": "_coverpage"
             }
           }
         ]
@@ -170,12 +170,12 @@
   },
   "active": "797c3d18e51e808d",
   "lastOpenFiles": [
+    "_sidebar.md",
+    "about.md",
+    "Book/生而为女.md",
     "image/favicon.png",
     "_coverpage.md",
     "Note/Blog.md",
-    "about.md",
-    "_sidebar.md",
-    "Book/生而为女.md",
     "Book/快乐影子之舞.md",
     "Book/悉达多.md",
     "Book/伴生：我们与动物的故事.md",
